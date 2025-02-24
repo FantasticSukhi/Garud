@@ -1,81 +1,3 @@
-<h1 align="center">
-  <b> Gojo_Satoru </b>
-<!---</h1>
-<h1 align="center"><img src="https://media.giphy.com/media/GL42TduR8AkNq1xRog/giphy.gif" /></h1>--->
-
-<!---<h1 align="center"><img src="https://te.legra.ph/file/4bf3b88115068d41efadd.jpg" /></h1>--->
-  
-<h1 align="center"><img src="./extras/gojo_satoru__psd__by_at_yomiko_deyaec4-pre.jpg" /></h1>
-
-
-
-------
-
-
-[![GitHub forks](https://img.shields.io/github/forks/Gojo-Bots/Gojo_Satoru?style=social)](https://github.com/Gojo-Bots/Gojo_Satoru/fork)
-![GitHub Repo stars](https://img.shields.io/github/stars/Gojo-Bots/Gojo_Satoru?style=social)
-
-![Repo Size](https://img.shields.io/github/repo-size/Gojo-Bots/Gojo_Satoru?&style=social&logo=github)
-![Branch](https://img.shields.io/badge/Branch-Main-white?&style=social&logo=github)
-
-![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/Gojo-Bots/Gojo_Satoru?&style=social&logo=github)
-
-![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/Gojo-Bots/Gojo_Satoru?&style=social&logo=hyper)
-
-
-
-**A python and [pyrogram](https://github.com/Gojo-Bots/pyrogram) based group management bot for telegram.
-If you like the bot make sure to give a ⭐ __star__ ⭐ to this respository and feel free to updating and sending pull requests**
-
-
-
----------  
-
-## Inspiration ✨
-Not a particular inspiration, inspired by many bots
-
-Mainly:
-
-* [Alita_Robot](https://github.com/divideprojects/Alita_Robot)
-* [WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot)
-
----------
-
-## About 
-  
-  <h1 align="center"><img src="./extras/original.gif" /></h1>
-  
-  
-The Gojo Satoru is a powerful Group Management bot with awesome plugins and features.
- 
-  **If you counter any problem or face any bugs for help join 🌟 [ɢօʝօ ɮօȶֆ](https://telegram.dog/gojo_bots_network) 🌟 and then join the gc and ask your problem.**
-
-## Features
-  
-* Modern
-* Fast
-* Fully asynchronous
-* Fully open-source
-* Frequently updated
-  
-***Can be found on Telegram as __[@GojoSuperbot](https://telegram.dog/GojoSuperbot)__***
-  
-* Feel free to give ideas for next update. Drop your ideas [here](https://github.com/Gojo-Bots/Gojo_Satoru/discussions/new?category=ideas)
-
--------
-
-## License
-[![GPLv3](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-<br>Licensed Under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3</a>
-
-
-
----------
-
-
-
 # DEPLOYMENT 🚀
 ## Deploy To Heroku
 * **Make Sure you have Heroku account**
@@ -84,7 +6,7 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 
 * Just click on the button it will redirect you to Heroku website and deploy your bot there....enjoy 😉
 
-[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gojo-Bots/Gojo_Satoru.git)
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FantasticSukhi/Garud.git)
 
 -------
 
@@ -92,10 +14,10 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 [![DEPLOY](https://railway.app/button.svg)](https://railway.app)
 ### How To Deploy On Railway
 *  **Make Sure You have an github account which is minimum 30 days old.**
-* Fork the repo by clicking [here](https://github.com/Gojo-Bots/Gojo_Satoru/fork)
+* Fork the repo by clicking [here](https://github.com/FantasticSukhi/Garud/fork)
 * Click on [deploy](https://railway.app) button 
 * Login in railway using github account
-* Now search the repo in the search bar given like iamgojoof6eyes/Gojo_Satoru ***replace iamgojoof6eyes with your github username.***
+* Now search the repo in the search bar given like FantasticSukhi/Garud ***replace iamgojoof6eyes with your github username.***
 * Now add the values and keys by creating values and keys ***Make sure to add keys __as per given below__ I'll advide you to just copy and paste it***
 * Then wait for 10-15 minutes. 
 * Vars are [given below](#Variables)
@@ -104,12 +26,12 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 --------  
   
 ## Deploy To Okteto
-  [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Gojo-Bots/Gojo_Satoru)
+  [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/FantasticSukhi/Garud)
 
 ### How To Deploy On Okteto
   * **Make sure you have an github account.**
-  * [Fork](https://github.com/Gojo-Bots/Gojo_Satoru/fork) the repo and give a star to repo
-  * Click on [deploy](https://cloud.okteto.com/deploy?repository=https://github.com/Gojo-Bots/Gojo_Satoru) button provided above...
+  * [Fork](https://github.com/FantasticSukhi/Garud/fork) the repo and give a star to repo
+  * Click on [deploy](https://cloud.okteto.com/deploy?repository=https://github.com/FantasticSukhi/Garud) button provided above...
   * Login using github.
   * Fill the values
   * Then wait for 10-15 minutes. 
@@ -125,7 +47,7 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 
 * Install Python v3.7 or later from Python's Website
 * Install virtualenv using `python3 -m pip -U install virtualenv`.
-* Fork or Clone the project using `git clone https://github.com/Gojo-Bots/Gojo_Satoru.git`
+* Fork or Clone the project using `git clone https://github.com/FantasticSukhi/Garud.git`
 * Create Virtualenv using: `virtualenv venv`
 * Install the requirements using `python3 -m pip install -r requirements.txt`
 * Fill in all the variables in the Development class, not the Config class. Sudo, Dev, Whitelist users are optional!!
@@ -137,8 +59,8 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 
 * Update apt by using `sudo apt update && sudo apt upgrade -y`
 * Now install required packages by `sudo apt install --no-install-recommends -y python3-lxml python3-psycopg2 libpq-dev libcurl4-openssl-dev libxml2-dev libxslt1-dev python3-pip python3-sqlalchemy openssl wget curl git libffi-dev libjpeg-dev libwebp-dev python3 python3-dev pv tree mediainfo nano nodejs libreadline-dev libyaml-dev gcc zlib1g ffmpeg libssl-dev libgconf-2-4 libxi6 unzip libopus0 libopus-dev python3-virtualenv tmux libmagickwand-dev`
-* Clone the GitHub repo by `https://github.com/Gojo-Bots/Gojo_Satoru`
-* Now make it the current directory by `cd Gojo_Satoru`
+* Clone the GitHub repo by `https://github.com/FantasticSukhi/Garud`
+* Now make it the current directory by `cd Garud`
 * Edit the vars file by `nano Powers/vars.py`
 * Fill in all the variables in the Development class, not the Config class. Sudo, Dev, and Whitelist users are optional!!
 * Create and activate a new virtualenv by `virtualenv venv source venv/bin/activate`
